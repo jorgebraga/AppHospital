@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Health App</string>
+    <string name="nomePaciente">NAME OF PATIENT:</string>
+    <string name="pressaoArterial">BLOOD PRESSURE</string>
+    <string name="temperaturaCorporal">TEMPERATURE</string>
+    <string name="batimentoCardiaco">HEARTBEAT</string>
+    <string name="leito">Nº OF BED</string>
+</resources>
